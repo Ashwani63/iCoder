@@ -1,11 +1,8 @@
-import Carousal from './components/Carousal';
+
 import Navbar from './components/Navbar'
-import Section from './components/Section';
 import { Switch, Route } from 'react-router-dom/cjs/react-router-dom.min'
 import Home from './components/Home';
 import Blogs from './components/Blogs';
-import BlogApi from './blogApi.json'
-import SideBar from './components/SideBar';
 import { useState } from 'react';
 import BlogContent from './components/BlogContent';
 import About from './components/About';

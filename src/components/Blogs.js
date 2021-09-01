@@ -1,15 +1,10 @@
 import React from 'react'
-import JSContent from './Content'
 import SideBar from './SideBar'
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom/cjs/react-router-dom.min'
-import Content from './Content'
 import BlogApi from '../blogApi.json'
 import Section from './Section'
-import { useState } from 'react'
 
 export default function Blogs(props) {
 
-    let [load, setLoad] = useState(false);
 
     return (
         <>

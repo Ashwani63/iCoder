@@ -4,16 +4,6 @@ import { Link } from 'react-router-dom/cjs/react-router-dom.min'
 
 export default function SideBar() {
 
-    let style = {
-        height: '91vh',
-        width: "280px",
-        border: '1px solid rgb(255,0,255)'
-    }
-
-    const changeContent = () => {
-
-    }
-
     return (
         <div>
             <hr style={{margin:'0px',}}/>

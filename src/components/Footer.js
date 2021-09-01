@@ -10,8 +10,8 @@ export default function Footer() {
     return (
         <div>
             <footer className="mt-4 text-light" style={style}>
-                <p className="float-end"><a href="#" className="text-light">Back to top</a></p>
-                <p>© 2021 BlogSite, Inc. · <a href="#" className="text-light">Privacy</a> · <a href="#" className="text-light">Terms</a></p>
+                <p className="float-end"><a href="/back" className="text-light">Back to top</a></p>
+                <p>© 2021 BlogSite, Inc. · <a href="/privacy" className="text-light">Privacy</a> · <a href="/jxb hdh" className="text-light">Terms</a></p>
             </footer>
         </div>
     )

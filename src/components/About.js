@@ -1,26 +1,13 @@
 import React from 'react'
 import Footer from './Footer';
-import img1 from './Images/1.jpg'
-import img2 from './Images/2.jpg'
-import img3 from './Images/3.jpg'
 import img5 from './Images/download.png'
 
 export default function About() {
-    let style1 = {
-        // backgroundImage: `)`,
-        backgroundPosition: "center left",
-        backgroundSize: "cover",
-        height: "500px"
-    };
     let style2 = {
         height: "300px",
         width: "300px",
         borderRadius:'50%'
     };
-    let style3 = {
-        height: "200px",
-        width: "250px"
-    }
 
     return (
         <>
@@ -61,15 +48,15 @@ export default function About() {
                                         <p className="m-0"> </p>
                                         <ul className="nav justify-content-center">
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i
+                                                <a className="nav-link px-2 fs-5" href="/vcfhg"><i
                                                     className="fab fa-facebook-square"></i></a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i
+                                                <a className="nav-link px-2 fs-5" href="/vfjghv"><i
                                                     className="fab fa-twitter-square"></i></a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i className="far fa-envelope"></i></a>
+                                                <a className="nav-link px-2 fs-5" href="/hgjhv"><i className="far fa-envelope"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -86,7 +73,7 @@ export default function About() {
                                         <p className="m-0"> </p>
                                         <ul className="nav justify-content-center">
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i className="far fa-envelope"></i></a>
+                                                <a className="nav-link px-2 fs-5" href="/hjfjg"><i className="far fa-envelope"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -103,11 +90,11 @@ export default function About() {
                                         <p className="m-0"> </p>
                                         <ul className="nav justify-content-center">
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i
+                                                <a className="nav-link px-2 fs-5" href="/hfyj"><i
                                                     className="fab fa-twitter-square"></i></a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i className="far fa-envelope"></i></a>
+                                                <a className="nav-link px-2 fs-5" href="/jgftjg"><i className="far fa-envelope"></i></a>
                                             </li>
                                         </ul>
                                     </div>
@@ -124,11 +111,11 @@ export default function About() {
                                         <p className="m-0"> </p>
                                         <ul className="nav justify-content-center">
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i
+                                                <a className="nav-link px-2 fs-5" href="/jbscgj"><i
                                                     className="fab fa-facebook-square"></i></a>
                                             </li>
                                             <li className="nav-item">
-                                                <a className="nav-link px-2 fs-5" href="#"><i className="far fa-envelope"></i></a>
+                                                <a className="nav-link px-2 fs-5" href="/bcgcku"><i className="far fa-envelope"></i></a>
                                             </li>
                                         </ul>
                                     </div>

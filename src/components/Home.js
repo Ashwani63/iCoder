@@ -1,7 +1,5 @@
 import Carousal from './Carousal';
-import Navbar from './Navbar'
 import Section from './Section';
-import BlogApi from '../blogApi.json'
 import Footer from './Footer';
 
 function Home(props) {

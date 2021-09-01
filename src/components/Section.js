@@ -1,8 +1,5 @@
 import React from 'react'
 import img1 from './Images/1.jpg'
-import img2 from './Images/2.jpg'
-import img3 from './Images/3.jpg'
-import BlogApi from '../blogApi.json'
 import { Link } from 'react-router-dom/cjs/react-router-dom.min'
 
 export default function Section(props) {
