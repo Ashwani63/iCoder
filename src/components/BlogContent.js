@@ -9,7 +9,7 @@ export default function BlogContent(props) {
     }
 
     return (
-        <>
+        <div style={{marginTop:'110px'}}>
             <SideBar />
             <div className='container my-3 mx-auto' style={style}>
                 {BlogApi.map((element)=>{
@@ -31,6 +31,6 @@ export default function BlogContent(props) {
                     }
                 })}
             </div>
-        </>
+        </div>
     )
 }

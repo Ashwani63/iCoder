@@ -7,7 +7,7 @@ export default function SideBar() {
     return (
         <div>
             <hr style={{margin:'0px',}}/>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav className=" fixed-top navbar navbar-expand-lg navbar-dark bg-dark" style={{marginTop:'57px'}}>
                 <div className="container-fluid">
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#secondnavbarSupportedContent" aria-controls="secondnavbarSupportedContent" aria-expanded="false"

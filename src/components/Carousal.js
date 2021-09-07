@@ -6,7 +6,7 @@ import img3 from './Images/3.jpg'
 export default function Carousal() {
     return (
         <div>
-            <div id="carouselExampleCaptions" className="carousel slide carousel-fade" data-bs-ride="carousel">
+            <div id="carouselExampleCaptions" className="carousel slide carousel-fade" data-bs-ride="carousel" style={{marginTop:'55px'}}>
                 <div className="carousel-indicators">
                     <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" className="active"
                         aria-current="true" aria-label="Slide 1"></button>

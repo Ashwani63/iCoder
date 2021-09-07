@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom/cjs/react-router-dom.min'
 export default function Navbar() {
     return (
         <>
-            <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+            <nav className="fixed-top navbar navbar-expand-lg navbar-dark bg-dark">
                 <div className="container-fluid">
                     <a className="navbar-brand text-success" href="/icoder"><strong>iCoder</strong></a>
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse"

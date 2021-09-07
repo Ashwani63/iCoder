@@ -1,5 +1,4 @@
 import React from 'react'
-import img1 from './Images/1.jpg'
 import { Link } from 'react-router-dom/cjs/react-router-dom.min'
 
 export default function Section(props) {
@@ -12,14 +11,14 @@ export default function Section(props) {
         zIndex: '1'
     }
 
-    let {id ,domain, title, date, description ,blogContent} = props;
+    let {id ,domain, title, date, description ,blogContent,image} = props;
 
     return (
         <>
 
 
             <div className="card fade-out " style={style}>
-                <img src={img1} className="card-img-top" alt="..." />
+                <img src={image} className="card-img-top" alt="..." style={{height:'200px'}}/>
                 <div className="card-body">
                     <h5 className="card-title">{title} <span className="position-absolute top-0  translate-middle badge rounded-pill bg-danger" style={style1}>{domain}</span> </h5>
                     <p className="card-text">{description}</p>
