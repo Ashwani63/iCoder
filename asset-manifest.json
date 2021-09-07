@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/iCoder/static/css/main.66dae550.chunk.css",
+    "main.js": "/iCoder/static/js/main.91bfa9a1.chunk.js",
+    "main.js.map": "/iCoder/static/js/main.91bfa9a1.chunk.js.map",
+    "runtime-main.js": "/iCoder/static/js/runtime-main.d1e338ef.js",
+    "runtime-main.js.map": "/iCoder/static/js/runtime-main.d1e338ef.js.map",
+    "static/css/2.9082872e.chunk.css": "/iCoder/static/css/2.9082872e.chunk.css",
+    "static/js/2.63c161a9.chunk.js": "/iCoder/static/js/2.63c161a9.chunk.js",
+    "static/js/2.63c161a9.chunk.js.map": "/iCoder/static/js/2.63c161a9.chunk.js.map",
+    "index.html": "/iCoder/index.html",
+    "static/css/2.9082872e.chunk.css.map": "/iCoder/static/css/2.9082872e.chunk.css.map",
+    "static/css/main.66dae550.chunk.css.map": "/iCoder/static/css/main.66dae550.chunk.css.map",
+    "static/js/2.63c161a9.chunk.js.LICENSE.txt": "/iCoder/static/js/2.63c161a9.chunk.js.LICENSE.txt",
+    "static/media/1.bb4caf43.jpg": "/iCoder/static/media/1.bb4caf43.jpg",
+    "static/media/2.17b54d94.jpg": "/iCoder/static/media/2.17b54d94.jpg",
+    "static/media/3.f9c32f83.jpg": "/iCoder/static/media/3.f9c32f83.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e338ef.js",
+    "static/css/2.9082872e.chunk.css",
+    "static/js/2.63c161a9.chunk.js",
+    "static/css/main.66dae550.chunk.css",
+    "static/js/main.91bfa9a1.chunk.js"
+  ]
+}
