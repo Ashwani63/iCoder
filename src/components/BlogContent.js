@@ -5,7 +5,7 @@ import BlogApi from '../blogApi.json'
 export default function BlogContent(props) {
     let style = {
         border: '.5px solid rgb(70, 68, 68)',
-        fontFamily:'cursive'
+        fontFamily:'Cambria, Cochin, Georgia, Times, "Times New Roman", serif'
     }
 
     return (
